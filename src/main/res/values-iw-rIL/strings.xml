@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_open">גע בקוף כדי לעלות למעלה ומלטה לאסוף יותר בננות ,התרחק מהדבורים</string>"
+    <string name="app_name">My_Application</string>
+    <string name="loss_dialog">הפסדת !</string>
+    <string name="play_btn">התחל משחק</string>
+    <string name="score">"הניקוד שלך הוא     "</string>
+    <string name="yes">כן</string>
+    <string name="cancel">ביטול</string>
+    <string name="play_again">"שחק שוב "</string>
+    <string name="music">מוזיקה:</string>
+    <string name="high_score">טבלת שיאים</string>
+    <string name="back">חזור</string>
+    <string name="pause_game">משחק בהשהייה</string>
+    <string name="press_continue">לחץ להמשך</string>
+    <string name="exit">יציאה</string>
+    <string name="back_screen">"חזור למסך הבית "</string>
+    <string name="speed1">מהירות עלתה ל15</string>
+    <string name="speed2">מהירות עלתה ל20</string>
+    <string name="speed3">"מהירות עלתה ל35 "</string>
+    <string name="speed4">מהירות עלתה ל45</string>
+    <string name="speed5">מהירות עלתה ל60</string>
+</resources>
